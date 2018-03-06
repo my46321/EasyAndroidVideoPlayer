@@ -1,0 +1,2 @@
+# EasyAndroidVideoPlayer
+only relevant documents
